@@ -24,6 +24,7 @@ Also after opening your pull request, make a review on someone else’s pull req
 do not merge.
 
 So, TODO:
+- Clone the repo
 - Create new branch (“hw/GITHUB_ID”)
 - Modify files or add files and commit
 - Push changes & branch to remote
