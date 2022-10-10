@@ -1,5 +1,5 @@
-## CSCI 475 - Git Assignment 2
-##### By: TA Zoli Nahoczki | nahoczki@uwp.edu
+# CSCI 475 - Git Assignment 2
+By: TA Zoli Nahoczki | nahoczki@uwp.edu
 
 ### Introduction:
 Git is a very important topic to understand when going into the software engineering
