@@ -37,6 +37,7 @@ You will be turning in the final product of the above description.
 
 Items graded will be: your branch, pull request, and review
 
-If there are any questions or concerns, feel free to message me on teams
+If there are any questions or concerns, feel free to message me on teams!
 (nahoczki@uwp.edu)
 
+AndrewPKrueger5000 was here. And now he's going to push.
